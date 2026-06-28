@@ -72,7 +72,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kunalcodezz&theme=onedark&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -96,7 +96,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/kunalcodezz/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -104,7 +104,7 @@
 ## ☕ Support Me
 
 <p>
-<a href="https://buymeacoffee.com/YOUR_USERNAME">
+<a href="https://buymeacoffee.com/kunalcodezz">
 <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
 </a>
 </p>
@@ -112,7 +112,7 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=kunalcodezz&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 <h3 align="center">
