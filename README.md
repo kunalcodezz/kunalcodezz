@@ -72,7 +72,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kunalcodezz&theme=onedark&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/kunalcodezz&theme=onedark&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -96,7 +96,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/kunalcodezz/kunalcodezz/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/kunalcodezz/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
