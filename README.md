@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Kunal Maidkar</h1>
+<h1 align="center">Hi , I'm Kunal Maidkar</h1>
 <h3 align="center">💻 Computer Engineering Student | Frontend Developer | Graphic Designer | India 🇮🇳</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 First Year Computer Engineering Student
-- 🌱 Currently learning **Advanced JavaScript, React.js & Node.js**
-- 💻 Passionate about **Frontend Development** and **Full Stack Development**
-- 🎨 Experienced in **Graphic Design** using Canva
-- 🔭 Building real-world projects to strengthen my portfolio
-- 🤝 Looking for **Internships** and **Open Source Contributions**
-- ⚡ Fun Fact: I love turning ideas into beautiful web applications.
+-  Second Year Computer Engineering Student
+-  Currently learning **Advanced JavaScript, React.js & Node.js**
+-  Passionate about **Frontend Development** and **Full Stack Development**
+-  Experienced in **Graphic Design** using Canva
+-  Building real-world projects to strengthen my portfolio
+-  Looking for **Internships** and **Open Source Contributions**
+-  Fun Fact: I love turning ideas into beautiful web applications.
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="left">
 <a href="https://linkedin.com/in/kunalmaidkar" target="_blank">
@@ -33,7 +33,7 @@
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 <p align="left">
 
@@ -43,7 +43,7 @@
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - ⚛ React.js
 - 🚀 Node.js & Express
@@ -53,7 +53,7 @@
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 
@@ -69,39 +69,39 @@
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kunalcodezz&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
-</p>
+</p> -->
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-🚑 Hospital Management System
+ Hospital Management System
 
-📅 Appointment Booking System
+ Appointment Booking System
 
-🛒 Full Stack E-Commerce Website
+ Full Stack E-Commerce Website
 
-💼 Portfolio Website
+ Portfolio Website
 
-🎨 Birthday Magazine Designer
+ Birthday Magazine Designer
 
-🔐 Cybersecurity Projects
+ Cybersecurity Projects
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://raw.githubusercontent.com/kunalcodezz/output/github-contribution-grid-snake.svg"/>
-</p>
+</p> -->
 
 ---
 
-## ☕ Support Me
+##  Support Me
 
 <p>
 <a href="https://buymeacoffee.com/kunalcodezz">
