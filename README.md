@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Kunal Maidkar</h1>
-<h3 align="center">💻 Computer Engineering Student | Frontend Developer | Graphic Designer | India 🇮🇳</h3>
+<h3 align="center">💻 Computer Engineering Student | JR.Cybersecurity Analyst | India 🇮🇳</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
